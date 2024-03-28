@@ -8,3 +8,4 @@ $(".toggle").click(function () {
     view = true;
   }
 });
+console.log("test");
